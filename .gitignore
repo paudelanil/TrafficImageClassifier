@@ -1,0 +1,11 @@
+meta/
+Meta/
+test/
+Test/
+train/
+Train/
+
+/Meta.csv
+/Test.csv
+/Train.csv
+/traffic_sign.zip
